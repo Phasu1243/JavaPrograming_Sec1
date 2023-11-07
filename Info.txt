@@ -1,0 +1,5 @@
+Student_id : 2313110716
+Student Name : Phasu Keeratikornpisut
+Major : IT
+Level : 1
+Faculty : IT
