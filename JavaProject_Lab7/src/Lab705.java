@@ -26,6 +26,6 @@ public class Lab705 {
         		odd+= _nums+" ";
 	}
   }
-        JOptionPane.showMessageDialog(null, "List of even number : \n"+ odd);
+        JOptionPane.showMessageDialog(null, "List of odd number : \n"+ odd);
     }
 }
